@@ -1,0 +1,21 @@
+{
+  "topThreads": [
+    {
+      "thread_ts": "1790093100.004410",
+      "text": "Has anyone connected their community to HubSpot?",
+      "repliesThisWeek": 3
+    },
+    {
+      "thread_ts": "1790187600.001870",
+      "text": "Just wrapped our first virtual meetup, 80 people showed up!",
+      "repliesThisWeek": 2
+    }
+  ],
+  "unanswered": [
+    {
+      "ts": "1790271900.007090",
+      "user": "U0G6RB9TXL",
+      "text": "Is there an API endpoint for creating events?"
+    }
+  ]
+}
